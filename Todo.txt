@@ -1,0 +1,23 @@
+- share code with mitch
+- fix the search bar to look better, create the react file to make the animation to open it?
+- download a higher resolution logo for the homepage bannor
+- correct proportions on logo, play with line thickness and then put everywhere
+- find a safe and powerful looking font to use on the website like the one on the design, and then integrate it
+- finish coding up all the pages
+- look through code to see if all done correctly and in the simplest way possible
+- centre text vertically to be from the centre of the images on the about page
+	- Write the about page sections to be more readable and interesting looking rather than blocks of text, do have room to do 	  this so no reason why not
+
+- probably need to rewrite entire website once I have a better feel for it to be more efficient with classes, and add the react features. The first one is more of a post-prototype prototype lol - just to get something basic made as a placeholder
+
+
+
+
+
+
+
+
+=======================================
+Done:
+
+- make the banner slightly smaller so I can pull up the box of stats to all fit on the first page
