@@ -142,7 +142,7 @@ body, html {
 
 
 h1{
-	color: #D0D0D0;
+/*	color: #D0D0D0;*/
 	text-align: center;
 	font-family: Inter;
 	font-size: 48px;
@@ -318,6 +318,45 @@ h2{
 
 }
 
+.person_profile{
+/*	background-color: #353535;
+	color: #D0D0D0;*/
+	color: #353535;
+	background-color: #D0D0D0;
+	margin-left: 5%;
+	margin-right: 5%;
+	padding-top: 20px;
+	padding-left: 60px;
+	padding-right: 60px;
+	padding-bottom: 30px;
+	border-radius: 74px;
+	margin-bottom: 45px;
+}
+
+
+
+
+/* Tests */
+.test_section {
+  display: flex;
+  align-items: left;
+  justify-content: space-between;
+  padding: 40px;
+}
+
+.test_section:nth-child(even) {
+  flex-direction: row-reverse;
+}
+
+.test_image img {
+  max-width: 400px;
+  height: auto;
+}
+
+.test_content {
+  flex: 1;
+  padding: 0 20px;
+/*  align-content: right;*/
 
 /*@media screen and (max-width: 600px) {
   .topnav a, .topnav input[type=text] {
